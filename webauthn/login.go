@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/duo-labs/webauthn/protocol"
+	"github.com/davidwalter0/webauthn/protocol"
 )
 
 // BEGIN REGISTRATION

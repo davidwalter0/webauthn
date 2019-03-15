@@ -1,7 +1,7 @@
 package webauthn
 
 import (
-	"github.com/duo-labs/webauthn/protocol"
+	"github.com/davidwalter0/webauthn/protocol"
 )
 
 type Credential struct {

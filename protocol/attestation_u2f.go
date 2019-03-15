@@ -6,7 +6,7 @@ import (
 	"crypto/elliptic"
 	"crypto/x509"
 
-	"github.com/duo-labs/webauthn/protocol/webauthncose"
+	"github.com/davidwalter0/webauthn/protocol/webauthncose"
 	"github.com/ugorji/go/codec"
 )
 

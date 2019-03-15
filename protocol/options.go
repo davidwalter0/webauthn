@@ -1,7 +1,7 @@
 package protocol
 
 import (
-	"github.com/duo-labs/webauthn/protocol/webauthncose"
+	"github.com/davidwalter0/webauthn/protocol/webauthncose"
 )
 
 type CredentialCreation struct {
@@ -54,7 +54,7 @@ type CredentialDescriptor struct {
 // CredentialParameter is the credential type and algorithm
 // that the relying party wants the authenticator to create
 type CredentialParameter struct {
-	Type      CredentialType               `json:"type"`
+	Type      CredentialType                       `json:"type"`
 	Algorithm webauthncose.COSEAlgorithmIdentifier `json:"alg"`
 }
 

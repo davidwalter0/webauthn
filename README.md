@@ -1,3 +1,5 @@
+Fork of github.com/duo-labs/webauthn
+
 WebAuthn Library
 =============
 [![GoDoc](https://godoc.org/github.com/duo-labs/webauthn?status.svg)](https://godoc.org/github.com/duo-labs/webauthn)

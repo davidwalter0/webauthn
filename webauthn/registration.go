@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"net/http"
 
-	"github.com/duo-labs/webauthn/protocol"
-	"github.com/duo-labs/webauthn/protocol/webauthncose"
+	"github.com/davidwalter0/webauthn/protocol"
+	"github.com/davidwalter0/webauthn/protocol/webauthncose"
 )
 
 // BEGIN REGISTRATION
